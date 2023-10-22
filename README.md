@@ -1,13 +1,11 @@
-# Projeto de Sistemas Distribuídos 2016-2017 #
-
-Grupo T36
+# Projeto de Sistemas Distribuídos#
 
 Developers:
 
 
 |   Number   |          Name           |            Email        |
 | ---------- | ----------------------- | ----------------------- |
-|78045       |Andre Monteiro           |andre_1540@hotmail.com   |
+|78045       |Andre Monteiro           |andrefbmonteiro@gmail.com   |
 |77913       |Adrian Quaresma          |adrianquaresma@gmail.com |
 |77941       |Tiago Taveira            |tt.taveira@gmail.com     |
 
