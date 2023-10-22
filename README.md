@@ -14,5 +14,3 @@ Developers:
 To run the Server mvn compile exec:java in folder supplier-ws
 
 To run the Client mvn compile exec:java in folder supplier-ws-cli
-
-**FIM**
